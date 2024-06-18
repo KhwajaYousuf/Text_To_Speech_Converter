@@ -50,4 +50,5 @@ textarea::placeholder{
     width: 600px;
     display: flex;
     align-items: center;
+    gap: 20px;
 }
