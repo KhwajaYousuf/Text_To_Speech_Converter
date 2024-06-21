@@ -61,4 +61,5 @@ button {
     border-radius: 35px;
     border: 0;
     outline: 0;
+    cursor: pointer;
 }
