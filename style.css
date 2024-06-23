@@ -63,3 +63,7 @@ button {
     outline: 0;
     cursor: pointer;
 }
+
+button img{
+    width: 16px;
+}
