@@ -63,6 +63,7 @@ button {
     outline: 0;
     cursor: pointer;
     display: flex;
+    align-items: center;
 }
 
 button img{
