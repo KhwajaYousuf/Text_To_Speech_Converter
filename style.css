@@ -83,4 +83,5 @@ select{
     border-radius: 35px;
     appearance: none;
     background-image: url(images/dropdown.png);
+    background-repeat: no-repeat;
 }
