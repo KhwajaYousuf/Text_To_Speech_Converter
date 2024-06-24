@@ -81,4 +81,5 @@ select{
     outline: 0;
     border: 0;
     border-radius: 35px;
+    appearance: none;
 }
