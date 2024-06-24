@@ -84,4 +84,5 @@ select{
     appearance: none;
     background-image: url(images/dropdown.png);
     background-repeat: no-repeat;
+    background-size: 15px;
 }
