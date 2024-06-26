@@ -1,3 +1,3 @@
 let speech = new SpeechSynthesisUtterance();
 
-document.querySelector("button")
+document.querySelector("button").addEventListener();
