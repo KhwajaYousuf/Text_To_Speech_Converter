@@ -1,3 +1,5 @@
 let speech = new SpeechSynthesisUtterance();
 
-document.querySelector("button").addEventListener();
+document.querySelector("button").addEventListener("click", () =>{
+    speech.text =  document.querySelector("textarea").value;
+});
